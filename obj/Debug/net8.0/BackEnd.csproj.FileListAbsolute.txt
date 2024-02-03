@@ -135,3 +135,4 @@
 /home/deskdev/Documentos/Dasafio_Getway_automacao/NET_FRAMEWORK/BackEnd/obj/Debug/net8.0/BackEnd.pdb
 /home/deskdev/Documentos/Dasafio_Getway_automacao/NET_FRAMEWORK/BackEnd/obj/Debug/net8.0/BackEnd.genruntimeconfig.cache
 /home/deskdev/Documentos/Dasafio_Getway_automacao/NET_FRAMEWORK/BackEnd/obj/Debug/net8.0/ref/BackEnd.dll
+/home/deskdev/Documentos/Dasafio_Getway_automacao/NET_FRAMEWORK/BackEnd/obj/Debug/net8.0/BackEnd.sourcelink.json

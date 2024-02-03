@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2VXDHtCOw2TtU1+iopGh2KdAqOFpDRzBRayGG2wPfyZ1viJ0xov/jHWWUIcXolM8nkb27Ed0FBASi+MQhmapwg==",
+  "dgSpecHash": "V7YTEIGPD1vi+bJJ2j3hgNpR2gOxbn/x+Zp4TcTD3kaazey/0tM1bu6GQOuZ9x7ltefAPd9hjDWy7NLPo1GRNg==",
   "success": true,
-  "projectFilePath": "/home/deskdev/Documentos/Dasafio_Getway_automacao/NET_FRAMEWORK/BackEnd/BackEnd.csproj",
+  "projectFilePath": "/home/deskdev/Documentos/NET_CORE_C#/NET_FRAMEWORK/BackEnd/BackEnd.csproj",
   "expectedPackageFiles": [
     "/home/deskdev/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/home/deskdev/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

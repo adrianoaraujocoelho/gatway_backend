@@ -4471,11 +4471,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/deskdev/Documentos/Dasafio_Getway_automacao/NET_FRAMEWORK/BackEnd/BackEnd.csproj",
+      "projectUniqueName": "/home/deskdev/Documentos/NET_CORE_C#/NET_FRAMEWORK/BackEnd/BackEnd.csproj",
       "projectName": "BackEnd",
-      "projectPath": "/home/deskdev/Documentos/Dasafio_Getway_automacao/NET_FRAMEWORK/BackEnd/BackEnd.csproj",
+      "projectPath": "/home/deskdev/Documentos/NET_CORE_C#/NET_FRAMEWORK/BackEnd/BackEnd.csproj",
       "packagesPath": "/home/deskdev/.nuget/packages/",
-      "outputPath": "/home/deskdev/Documentos/Dasafio_Getway_automacao/NET_FRAMEWORK/BackEnd/obj/",
+      "outputPath": "/home/deskdev/Documentos/NET_CORE_C#/NET_FRAMEWORK/BackEnd/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/deskdev/.nuget/NuGet/NuGet.Config"
