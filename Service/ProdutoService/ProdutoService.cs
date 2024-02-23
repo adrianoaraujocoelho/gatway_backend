@@ -56,7 +56,6 @@ namespace BackEnd.Service.ProdutoServiceService
                 ProdutoModel produto = _context.Produtos.FirstOrDefault(x => x.Id == id);
 #pragma warning restore CS8600 // Conversão de literal nula ou possível valor nulo em tipo não anulável.
 
-
                 if (produto == null)
                 {
                     serviceResponse.Dados = null;
@@ -66,10 +65,8 @@ namespace BackEnd.Service.ProdutoServiceService
                     return serviceResponse;
                 }
 
-
                 _context.Produtos.Remove(produto);
                 await _context.SaveChangesAsync();
-
 
                 serviceResponse.Mensagem = "Produto delete com Sucesso!";
 
@@ -94,7 +91,6 @@ namespace BackEnd.Service.ProdutoServiceService
                 ProdutoModel produto = await _context.Produtos.FirstOrDefaultAsync(x => x.Id == id);
 #pragma warning restore CS8600 // Conversão de literal nula ou possível valor nulo em tipo não anulável.
 
-
                 if (produto == null)
                 {
                     serviceResponse.Dados = null;
@@ -115,7 +111,6 @@ namespace BackEnd.Service.ProdutoServiceService
             return serviceResponse;
         }
 
-
         public async Task<ServiceResponse<List<ProdutoModel>>> UpdateProduto(ProdutoModel editadoProduto)
         {
             ServiceResponse<List<ProdutoModel>> serviceResponse = new ServiceResponse<List<ProdutoModel>>();
@@ -127,7 +122,6 @@ namespace BackEnd.Service.ProdutoServiceService
 #pragma warning disable CS8600 // Conversão de literal nula ou possível valor nulo em tipo não anulável.
                 ProdutoModel produto = await _context.Produtos.FirstOrDefaultAsync(x => x.Id == editadoProduto.Id);
 #pragma warning restore CS8600 // Conversão de literal nula ou possível valor nulo em tipo não anulável.
-
 
                 if (produto == null)
                 {
